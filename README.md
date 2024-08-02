@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Sofi1828
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###Boas vindas ao meu perfil
 
-<!---
-Sofi1828/Sofi1828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Me chamo Sofia Soares
+
+- Estou estudando no [Alura](https://alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minhas organização e compartilhamento de meus projetos desenvolvidos
+
+###Você entrar em contato comigo 📫
+
+00001126779891sp@al.educacao.sp.gov.br
